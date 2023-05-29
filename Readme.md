@@ -129,7 +129,7 @@ SECRETE_KEY_JWT
 
 ## Endpoint List
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/26334344/2s93XyUPKH)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/24895506/2s93eR5GQe)
 
 <!-- CONTRIBUTING -->
 
